@@ -14,7 +14,7 @@ python main.py
 
 - [python-project-prime-numbers-dalto](https://github.com/kevin-pb/python-project-prime-numbers-dalto)
 
-- [python-project-time-it-takes-you-to-say-the-sentences-dalto](https://github.com/kevin-pb/proyect-fibonacci-dalto)
+- [python-project-time-it-takes-you-to-say-the-sentences-dalto](https://github.com/kevin-pb/python-project-time-it-takes-you-to-say-the-sentences-dalto)
 
 - [python-proyect-tutorial-duration-dalto](https://github.com/kevin-pb/python-proyect-tutorial-duration-dalto)
 
